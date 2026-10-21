@@ -163,3 +163,13 @@ body {
     color: #ffffff;
     cursor: pointer;
 }
+
+.carros_ol {
+    list-style-position: inside;
+    margin: 15px 0;
+}
+
+.carros_ul {
+    list-style-position: inside;
+    margin: 15px 0;
+}
